@@ -1,0 +1,3 @@
+Next js da ikki xil komponentlar mavjud bo'lib ular mijoz va server komponentlarga bo'linadi.
+Mijoz komponentni - bu bizga mavjud komponentlar blan interaktiv amallar bajarishimiz, onClick, onKeyDown... kabilar hamda hooklar Reactdagi kabilar bo'lsa bu kompenent mijoz komponenti hisoblanadi. Misol buttonlar searchbar kabilar. Uni foydalanishda `use client` belgilanishidan komponent boshida foydalaniladi.
+Server komponentlari - Nextda ko'p qismdagi komponentlar server komponent hisoblanib u bizga loyihani hajmini kichik bo'lishini ta'minlaydi. Sababi server komponentlarida barcha jarayon serverda bo'lganligi uchun lohiya yengil ishlaydi.
